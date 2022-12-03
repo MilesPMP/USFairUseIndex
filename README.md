@@ -18,9 +18,12 @@ We took the data from the U.S. Copyright Office as pushed in 2022 August.
 We cleaned up the category – capitalization and punctuation -- to make 18 categories.  We then made each a category flag in a two-dimensional table and then reshaped the data into a one-dimensional table. 
 
 We classified all outcomes in to three types: 
+
 •	Fair Use Found – Fair use found | Fair use found; Mixed result | Fair use found; Affirmed on appeal
+
 •	Fair Use Not Found – Fair use not found | Fair use not found, preliminary ruling | 
 Preliminary ruling; Fair use not found | Preliminary ruling; Fair use not found; Mixed result
+
 •	Other – Mixed Result | Preliminary ruling; Remand | Preliminary ruling; Mixed result or Remand
 
 Other changes include standardizing the names of the courts, cleaning up the punctuation, and splitting URLs from case names.  
